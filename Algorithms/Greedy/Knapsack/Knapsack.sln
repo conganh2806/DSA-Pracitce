@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack", "Knapsack.csproj", "{07CDD697-B385-62D3-CE57-DF100A9E0D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CDD697-B385-62D3-CE57-DF100A9E0D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CDD697-B385-62D3-CE57-DF100A9E0D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CDD697-B385-62D3-CE57-DF100A9E0D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CDD697-B385-62D3-CE57-DF100A9E0D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0572D2B5-C20E-4B3C-A24F-BD018A712E96}
+	EndGlobalSection
+EndGlobal
